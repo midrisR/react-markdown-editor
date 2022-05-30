@@ -2,3 +2,10 @@
   font-family: sans-serif;
   text-align: center;
 }
+.custom-html-style code,
+.custom-html-style pre {
+  background: transparent !important;
+}
+.custom-html-style {
+  text-align: left;
+}
